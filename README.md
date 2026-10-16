@@ -1,6 +1,6 @@
 # Awesome CheapAIModel [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of SDKs, frameworks, apps and tools that work with the [CheapAIModel](https://cheapaimodel.ai) API.
+A curated list of SDKs, frameworks, apps and tools that work with the [CheapAIModel](https://cheapaimodel.ai?utm_source=github&utm_medium=awesome-cheapaimodel) API.
 
 Since CheapAIModel is OpenAI-compatible, anything that supports a custom OpenAI base URL should work.
 
